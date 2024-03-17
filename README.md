@@ -1,9 +1,9 @@
-**Cara menjalankan code program **
+**Cara menjalankan code program**
 
-•	Pertama-tama setelah code sudah dengan ekstensi “.c” kita lakukan compile dulu pada terminal, gcc 2208107010054_Simple_Sorting -o 2208107010054_Simple_Sorting.c
-•	Selanjutkan jika compile telah selesai tanpa kesalahan, kita bisa menjalankan (run) code-nya dengan perintah ./2208107010054_Simple_Sorting
-•	Setelah selesai di run, code akan menampilkan outputnya pada terminal, dan akan membuat 2 file otomatis dengan nama “unsorted.txt” dan “sorted.txt” yang dimana unsorted berisi data sebelum pengurutan dan sorted yang berisi data setelah pengurutan berdasarkan algoritma pengurutannya.
-•	Setelah file dijalankan, dapat dilihat pada kedua txt tersebut perbedaan sebelum dan sesudah pengurutan
+1. Pertama-tama setelah code sudah dengan ekstensi “.c” kita lakukan compile dulu pada terminal, gcc 2208107010054_Simple_Sorting -o 2208107010054_Simple_Sorting.c
+2. Selanjutkan jika compile telah selesai tanpa kesalahan, kita bisa menjalankan (run) code-nya dengan perintah ./2208107010054_Simple_Sorting
+3. Setelah selesai di run, code akan menampilkan outputnya pada terminal, dan akan membuat 2 file otomatis dengan nama “unsorted.txt” dan “sorted.txt” yang dimana unsorted berisi data sebelum pengurutan dan sorted yang berisi data setelah pengurutan berdasarkan algoritma pengurutannya.
+4.  Setelah file dijalankan, dapat dilihat pada kedua txt tersebut perbedaan sebelum dan sesudah pengurutan
 
 
 **Fungsi yang digunakan pada code program**
